@@ -8,7 +8,9 @@ Utilized NumPy, Pandas, Seaborn, Plotly in Jupyter notebook to conduct EDA on ab
 * Heat map
 * Cluster heat map
 * Interactive violin plot
+<br />
 ![violin](./violin.png)
 * Interactive choropleth map
+<br />
 ![map](https://user-images.githubusercontent.com/38733111/132288287-c55a80e4-82da-4911-9c92-03e6d6cfedb1.jpg)
 
